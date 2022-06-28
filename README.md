@@ -3,9 +3,9 @@
 ## Module 1: Software Testing Concepts
 
 - [ ] What is software? Types of Software's?
-- [x] What is Software Testing?
-- [x] What is Software Quality?
-- [x] Projects vs Products
+- [ ] What is Software Testing?
+- [ ] What is Software Quality?
+- [ ] Projects vs Products
 - [ ] Why do we need testing?
 - [ ] Error, Bug and Failure
 - [ ] Why the software has bugs?
@@ -63,3 +63,36 @@
 - [ ] Software Testing Metrics
 - [ ] QA/Testing Activities
 - [ ] Principles of Software Testing
+
+## Module 2: Software Testing Project
+
+- [ ] Project Introduction
+- [ ] Understanding Functional Requirements from SRS
+- [ ] Creating Testing Scenario
+- [ ] Creating Test Cases
+- [ ] Test Execution
+- [ ] Bug Reporting and Tracking
+- [ ] Test Sign off
+
+## Module 2: Agile Testing and Jira Tool
+**Agile/Scrum Process**
+- [ ] What is Agile
+- [ ] What is Scrum / Scrum Team
+- [ ] What is Sprint
+- [ ] What is User Story
+- [ ] How to give story points / How to estimate User Story
+- [ ] What is Defination of Done and Defination of Ready
+- [ ] Different Sprint Activities / Rituals
+- [ ] Sprint Planning / Backlog Refinement / Sprint Review / Sprint Retorspective
+
+**Jira Tool**
+- [ ] How to install and configure Jira Tool
+- [ ] How to create an EPIC / User Stories in Jira
+- [ ] Creating sprints in Jira
+- [ ] Sprint lifecycle in Jira
+- [ ] Backlogs in Jira
+- [ ] Creating Bugs in Jira
+- [ ] How to write test cases in Jira
+- [ ] Create Test Cycles and Execute Test Cases in Jira
+- [ ] 
+
