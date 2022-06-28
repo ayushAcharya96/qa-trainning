@@ -2,7 +2,7 @@
 
 ## Module 1: Software Testing Concepts
 
-- [x] What is software? Types of Software's?
+- [:heavy_check_mark:] What is software? Types of Software's?
 - [x] What is Software Testing?
 - [x] What is Software Quality?
 - [x] Projects vs Products
