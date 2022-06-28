@@ -2,19 +2,19 @@
 
 ## Module 1: Software Testing Concepts
 
-- [ ] What is software? Types of Software's?
-- [ ] What is Software Testing?
-- [ ] What is Software Quality?
-- [ ] Projects vs Products
-- [ ] Why do we need testing?
-- [ ] Error, Bug and Failure
-- [ ] Why the software has bugs?
-- [ ] SDLC and STLC
-- [ ] SDLC 
-- [ ] Waterfall Model
-- [ ] Spiral Model
-- [ ] V-Model
-- [ ] Static Testing & Dynamic Testing
+- [x] What is software? Types of Software's?
+- [x] What is Software Testing?
+- [x] What is Software Quality?
+- [x] Projects vs Products
+- [x] Why do we need testing?
+- [x] Error, Bug and Failure
+- [x] Why the software has bugs?
+- [x] SDLC and STLC
+- [x] SDLC 
+- [x] Waterfall Model
+- [x] Spiral Model
+- [x] V-Model
+- [x] Static Testing & Dynamic Testing
 - [ ] Verification & Validation
 - [ ] White Box & Black Box Testing Methods
 - [ ] Static Testing & Dynamic Testing
