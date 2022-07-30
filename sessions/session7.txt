@@ -1,0 +1,154 @@
+STLC
+------
+
+Steps in STLC
+--------------
+1. Requirement Analysis
+2. Test Planning
+3. Test Design
+4. Test Execution
+5. Defect Reporting / Bug Reporting
+6. Test Closure
+
+
+Requirement Analysis
+--------------------
+- project requirement Analysis
+
+
+Test Planning
+--------------
+- mostly management level Planning
+
+Phases
+    - What to Test
+    - How to test 
+    - When to test
+
+Input
+    - project Plan
+    - functional requirement
+
+Activities
+    - Identify the resources
+        human resources, devices, environment
+    - Team formation
+        no of members required
+        team hierarchy
+    - Test estimation
+    - Preparation of Test Plan
+    - reviews on Test Plan
+    - test plan sign-off
+
+Responsibility
+    - Test Lead / Team Lead (70%)
+    - Test Manager (30%)
+
+outcome
+    - Test plan Document
+
+
+Test Designing
+--------------
+- major activity is writing the test cases
+- writing test cases is main resposibility of test engineers
+
+Phases
+    - test cases writing
+
+Input
+    - project Plan
+    - functional requirement
+    - test Plan
+    - design docs
+    - use cases
+
+Activities
+    - preparation of test scenarios
+        - what to test
+        - features to test
+        - test conditions
+    - preparation of test cases
+        - step by step action to test the test scenarios
+    - reviews on test cases
+        - testing of test cases Document
+    - traceability matrix (RTM)
+        - mapping of requirement and corresponding test cases
+    - test cases sign off
+        - everyone's approval for test cases
+
+Responsibility
+    - Test lead/ team lead (30%)
+    - Test Engineers (70%)
+
+outcome
+    - Test cases Document
+    - traceability matrix
+
+
+Test Execution
+---------------
+
+Input
+    - Functional Requirement
+    - Test Plan
+    - Test cases
+    - Build from development team
+
+Activities
+    - Executing test cases
+    - Preparation of test report / Test Log
+    - Identify Defects
+
+Responsibility
+    - Test Lead / Team Lead (10%)
+    - Test Engineers (90%)
+
+outcome
+    - Status / Test Reports
+
+
+Defect Reporting and Tracking
+------------------------------
+
+Input
+    - Test cases
+    - Test Report
+
+Activities
+    - Preparation of defect report
+    - reporting defects to developers
+
+Responsibility
+    - Test Lead / Team Lead (10%)
+    - Test Engineers (90%)
+
+outcome
+    - defect Reports
+
+
+Test Closure/ Signoff
+----------------------
+
+Input
+    - Test Reports
+    - Defect Reports
+
+Activities
+    - Analyzing Test Reports
+    - Analyzing Bug Reports
+    - Evaluating Exit Criteria 
+        - depends on company
+        - p1, p2, p3 ---> 
+            p1 --> major bugs (affects of business logic)
+            p2 ---> medium priority bugs
+            p3 ---> minor bugs (doesnot affect the business logic)
+
+outcome
+    - Test Summary Reports
+
+
+
+
+
+

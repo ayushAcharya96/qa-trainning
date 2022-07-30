@@ -1,0 +1,98 @@
+Test Design Techniques / Test Case Design Techniques / Test Data Design Techniques
+------------------------------------------------------------    
+- used to prepare data for testing.
+- helps to design better cases.
+
+- Reduce Data
+- Increase Coverage 
+
+Types of test design techniques
+--------------------------------
+1. Equivalance Class Partitioning (ECP)
+2. Boundary Value Analysis (BVA)
+3. Decision Table based testing
+4. State Transition
+5. Error Guessing
+
+
+Equivalance Class Partitioning (BVA)
+-------------------------------
+- Partition data into various classes and we can select data according to class then test. It reduce the number of test-cases and saves time for testing.
+
+value check
+clasify/divide/Partition the data into multiple classes
+
+
+Boundary Value Analysis (BVA)
+------------------------------
+- BVA technique used to check Boundaries of the input.
+
+Test with these parameters
+    - min 
+    - min + 1
+    - min - 1
+    - max 
+    - max + 1
+    - max - 1
+
+
+Input domain testing
+---------------------
+- The value will be verified in the text box/input fields.
+- We use ECP and BVA
+
+
+
+Decision Table
+---------------
+- Decision Table is also called as Cause-Effect Table.
+- This technique will be used if we have more conditions and corresponding actions.
+- In Decision table technique, we deal with combinations of input.
+- To identify the test cases with decision table, we consider conditions and action.
+
+Example:
+    - Take an example of transferring money online to an account which is already added and approved.
+
+    - Here the conditions to transfer money are:
+        - Account already approved
+        - OTP (one time password) matched
+        - Sufficient money in the account
+    
+    - And the actions performed are
+        - Transfer money
+        - Show a message as insufficient amount
+        - Block the transaction incase of suspicious transaction
+
+
+State Transition
+-----------------
+- In state transition changes in input condtions changes the state of the application.
+- This testing technique allows the tester to test the behaviour of an AUT.
+- The tester can perform this action by entering various input conditions in a sequence.
+- In state transition technique, the testing team provides positive as well as negative input test values for evaluating the system behavior.
+
+- Take an example of login page of an application which locks the user name after three wrong attempts of password.
+
+Error Guessing
+--------------
+- Error guessing is one of the testing techniques used to find bugs in a software application based on tester's prior experience.
+- In error guessing we don't follow any specific rules.
+- It depends on Tester Analytical skills and experience.
+- Some of the examples are:
+    - Submitting a form without entering values.
+    - Enter invalid values such as entering alphabets in the numeric field.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,184 @@
+System Testing
+--------------
+Done in tester environment (replica of customer environment)
+    - qa environment, qc environment, staging environment
+    - GUI Testing
+    - Usability Testing
+    - Functional Testing
+    - Non-Functional Testing
+
+GUI Testing
+------------
+- testing the user interface of an application
+- tests elements of UI
+    - checkboxes, input field, scrollbars, images, colors, sizes, icons, menus, buttons
+
+GUI Testing Checklist
+---------------------
+- Testing the size, position, width, height of the elements.
+- Testing of the error messages that are getting displayed.
+- Testing the different sections of the screen.
+- Testing of the font whether it is readable or not.
+- Testing of the screen in different resolutions with the help of zooming in and zooming out.
+- Testing the alignment of the texts and other elements like icons, buttons, etc. are in  proper or not.
+- Testing the colors of the fonts.
+- Testing whether the image has good clarity or not.
+- Testing the alignment of the images.
+- Testing of the spelling.
+- The user must most not get frustrated while using the system interface.
+- Testing whether the interface is attractive or not.
+- Testing of the scrollbars according to the size of the page if any.
+- Testing of the disabled fields if any.
+- Testing of the size of the images.
+- Testing of the headings whether it is properly aligned or not.
+- Testing of the color of the hyperlink.
+- Testing UI Elements like button, textbox, text area, check box, radio buttons, drop downs, links etc.
+
+
+Usability Testing
+-----------------
+(provides user manuals / help menu)
+- During this testing validates application provided context sensitive help or not to the user.
+- Checks how easily the end users are able to understand and operate the application is called usability testing.
+
+
+Functional Testing
+-------------------
+- functionality is noting but behavior fo application.
+- Functional Testing talks about how your feature should work.
+
+
+- Object Properties Testing
+- Database Testing
+- Error Handling
+- Calculations/Manipulations Testing
+- Links Existence and Links Execution
+- Cookies and sessions
+
+Object Properties Testing
+-------------------------
+Check the properties of objects present on the Application.
+
+EG: in Textbox properties are enabled and disabled
+    selection of one radio button at a time
+    selection of one item in dropdown
+    selection of multiple item in list boxes
+    change of focus to next input after insertion of text in a text box
+
+Database Testing (Backend Testing)
+----------------------------------
+(Require some sql commands)
+(huge testing step)
+
+As a tester we focus on DML operations
+
+At the beginning, verify the required data in coming to UI. 
+
+DML (Data Manipulations Language)
+---------------------------------
+Create, Read, Update, Delete
+
+Work on UI, and verify data in Database
+
+Database testing includes both white box testing and black box testing.
+Also called Grey box testing. (Asked in interviews)
+
+Apart from this 
+    table and column level validation is also done.
+        Column Type, column length, number of columns....
+    Relation between the tables ( Normalizations)
+    Functions
+    Procudures
+    Triggers
+    Indexes
+    Views
+    etc....
+
+Done by database experts
+
+Error Handling Testing
+-----------------------
+- Tester verify the error messages while performing the incorrect actions on the application.
+- Error messages should be readable.
+- User understandable language./Simple language.
+
+
+Calculations/Manipulations Testing:
+-----------------------------------
+- Tester should verify the calculations.
+
+
+Links Existence and Links Execution
+------------------------------------
+- where exactly the links are placed --------- Links Existence
+- Links are navigating to proper page or not.
+
+Internal Links
+    - navigate to same page to different sections
+External Links
+    - navigate to different page
+Broken Links
+    - doesnot have any target page
+
+Cookies and Sessions
+---------------------
+Cookies - Temporary files created by browser while browsing the pages through internet.
+
+Sessions are time slots created by the server. Session will be expired after some time (If you are idle for some time)
+
+cookies are created at brower side.
+sessions are created at server side.
+
+auto logout if application is not used.
+used for security machanism.
+
+Non Functional Testing
+-----------------------
+- Done once application is functionally stable.
+- Focus on performance, load it can take and security etc.
+Mainly tested as per customer expectation
+
+    - Performance Testing --- speed of the application
+        - Load Testing
+        - Stress Testing
+        - Volume Testing
+    - Security Testing
+    - Recovery Testing
+    - Compatibility Testing
+    - Configuration Testing
+    - Installation Testing
+    - Sanitation/Garbage Testing
+
+- Performance Testing --- speed of the application
+    (done on web based application)
+    - Load: Increasing the load on the application slowly then check the speed of the application.
+    - Stress: suddenly increase/decrease the load on the application and check the speed of the application
+    - Volume: Check how much data is able to handle by the application
+
+- Security Testing:
+    - How secure our application
+    - mainly focus on Authentication and Authorization
+
+    - Authentication ----> User are valid or not
+    - Authorization/Access Control ---> permissions of the valid user.
+
+    other testing used pen testing, data communication, protocal testing, hacking will be done by security team.
+
+
+- Recovery Testing:
+    - checks the system change to abnormal to normal.
+
+
+- Compatibility Testing:
+    - Forward Compatibility
+    - Backward Compatibility
+    - Hardware Compatibility (Configuration Testing)
+
+- Installation Testing:
+    - Check screens are clear to understand or not.
+    - Screens navigation
+    - Simple or not.
+    - Uninstallation 
+
+- Sanitation/Garbage Testing:
+    - Extra features not mentioned in requirement is also bug and should be removed.

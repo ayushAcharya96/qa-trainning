@@ -1,0 +1,89 @@
+Test Plan Contents
+-------------------
+- A Test plan is a document that describes the test scope, test strategy, objectives, schedules, deliverables, and resources required to perform testing for a software product.
+
+
+Test plan template contents:
+----------------------------
+- Overview
+- Scope
+    - Inclusions
+    - Test Environment
+    - Exclusions
+- Test Strategy
+- Defect Reporting Procedure
+- Roles/ Responsibility
+- Test Schedule
+- Test Deliverable
+- Entry and Exit Criteria
+- Suspension and Resumption Criteria
+- Tools
+- Risks and Mitigation
+- Approvals
+
+Overview
+---------
+    - what is the project and why are you preparing test document
+    - what is this document for
+
+Scope
+------
+- what to test and what not to test
+    - Inclusions
+    - Test Environment
+    - Exclusions
+
+Test Strategy
+-------------
+- what testing we are going to conduct
+    - smoke, sanity, functional
+    - when to use automation and when to use manual
+
+Defect Reporting Procedure
+--------------------------
+- how to report bugs 
+- process to report bugs to developers
+
+Roles/ Responsibility
+----------------------
+- mutiple people are assigned to testing team
+- defining Responsibility for the team
+- who will review tests
+
+Test Schedule
+--------------
+- what to do when
+
+Test Deliverable
+-----------------
+- what to deliver in each phases of testing
+
+Pricing
+--------
+- how costly will it be 
+
+Entry and Exit Criteria
+------------------------
+- conditions to start and end testing
+
+Suspension and Resumption Criteria
+-----------------------------------
+- conditions to stop and resume testing
+
+Tools
+------
+- execl, word, bug tracking tools, automation tools 
+
+Risks and Mitigation
+----------------------
+- what are the risks in the project
+- unreliable team members, unreliable hardware
+- backup of risks
+- for example, delay in delivery of test items might require increased night shift scheduling to meet the delivery date
+
+Approvals
+----------
+- who approves this document
+
+
+

@@ -1,0 +1,186 @@
+
+SDLC - Software Development Life Cycle
+--------------------------------------
+Software Development Life Cycle is a process used by software industry to design, develop and test softwares.
+
+3 pillors of company
+    P - People
+    P - Process
+    P - Product
+
+Phases of SDLC:
+planning--->Requirement Analysis--->Design--->Development--->Testing---->Deployment--->Maintenance
+
+Models of SDLC (Process Model):
+-------------------------------
+
+Waterfall Model:
+----------------
+    RA:
+        Documentation Phases
+        produces SRS Document
+    Design:
+        based on SRS document, Design document is created
+    Implementation:
+        coding is done with reference to design document
+    Testing:
+        Software is tested
+    Deployment:
+        Tested Software is deployed
+    Maintenance:
+        Deployed software is maintained if any changes is required.
+
+old and traditional Model
+
+advantages:
+    1. Quality of the product will be good. (Every phase has detailed document.)
+    2. Since Requirement changes are not allowed, chances of finding bugs will be less.
+    3. Initial investment is less since the testers are hired at later stage.
+    4. Preferred for small projects since the requirements are freezed.
+
+drawbacks:
+    1. Requirement changes are not allowed.
+    2. If there is defect in requirement that will be continued in later phases.
+    3. Total investment is more because time taking for rework on defect is time consuming which leads to high investment.
+    4. Testing will start only after coding.
+
+
+Spiral Model (Iterative Model):
+-------------------------------
+1. Spiral Model is iterative model.
+2. Spiral Model overcome drawbacks of Waterfall model.
+3. We follow spiral model whenever there is dependency on the modules.
+4. In every cycle new software will be released to customer.
+5. Software will be released in multiple versions. So it is also called version control model.
+
+Advangates of spiral model:
+---------------------------
+    1. Testing is done in every cycle before going to the next cycle.
+    2. Customer will get to use software for every module.
+    3. Requirement changes are allowed after every cycle before going to the next cycle.
+
+Disadvantages of spiral model:
+------------------------------
+    1. Requirement changes are not allowed in between the cycle.
+    2. Every cycle of spiral model looks like Waterfall model.
+    3. There is no testing in requirement and design phase.
+
+
+Prototype model:
+----------------
+Initial requirement from the customer--->Prototype---->Customer--->design, coding, testing....
+
+
+V-V Model (V Model):
+--------------------
+Software will be divided into modules
+    EG: for gmail
+        modules can be login, send email
+
+Testing is done is every step.
+
+Verification
+------------
+    - BRS/CRS/URS 
+    - SRS
+    - HLD (High Level Design)
+    - LLD (Low Level Design)
+    - Coding
+
+Validation
+----------
+    - Unit Testing
+    - Integration Testing
+    - System Testing
+    - User Acceptance Testing
+    
+    
+Static Testing:
+---------------
+Testing project related documents is called as static testing.
+
+    Review
+    Walkthrough
+    Inspection
+
+Dynamic Testing:
+----------------
+Testing the actual software.
+
+    White Box Testing
+        - Unit Testing
+        - Integrated Testing
+    Black Box Testing
+        - System Testing
+        - UAT Testing
+
+
+Verification
+------------
+- Verification checks whether we are building the right product
+- Focus on Documentation
+
+Static testing techniques are used for verification.
+- Reviews
+- Walkthrough
+- Inspection
+
+
+Validation
+----------
+- Validation checks whether we are building the product right
+- Takes place after verifiations are completed
+- Focus on Software
+- Validation typically involves actual testing
+- Unit testing, integration, system testing, UAT Testing
+
+
+Dynamic testing techniques are used for Validation
+
+    White Box Testing
+        - Unit Testing
+        - Integrated Testing
+    Black Box Testing
+        - System Testing
+        - UAT Testing
+
+Advantages:
+-----------
+    - Testing is involved in every step.
+
+Disadvantages:
+--------------
+    - Documentation is more.
+    - Initial investment is more.
+
+Static Testing:
+---------------
+Testing project related documents is called as static testing.
+
+Review:
+-------
+    Conducts on documents to encure correctness and completeness
+
+    Types:
+        - requirements Reviews
+        - Design Reviews
+        - Code Reviews
+        - Test plan Reviews
+        - Test cases Reviews
+
+Walkthrough: (discussion with peers)
+------------------------------------
+- It is a informal reveiw.
+- Author reads the documents or code and discuss with peers.
+- It's not pre-planned and can be done whenever required.
+- Also Walkthrough does not have minutes of the meet.
+
+Inspection
+----------
+- Its a most formal review.
+- In which at least 3-6 people will sit in the meeting.
+    1. reader (auther of the document)
+    2. writer (note down questions and clarification discussed in the meeting) 
+    3. moderator (organizer of the meeting) 
+    plus concerned
+- Inspection will have a proper schedule which will be intimated via email to the concerned developer/tester.

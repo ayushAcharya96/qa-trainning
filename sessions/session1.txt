@@ -1,0 +1,81 @@
+Manual testing
+---------------
+
+Module 1: Testing Concepts(Theroy) What?
+MOdule 2: Testing Projects(Practical) How?
+Module 3: Agile Process - Jira
+
+-------------------------------
+
+Software
+--------
+A software is a collection of computer programs that helps us to perform a task.
+
+Types of software:
+------------------
+    1. System software:
+        Ex: Device drivers, Operating systems, Servers, Utilities, etc
+    2. Programming software:
+        Ex: compilers, debuggers, interpreters, etc.
+    3. Application Software
+        Ex: Web Application, MObile Apps, Desktop Applications etc.
+
+
+    ABC Bank(company)----->IT Company----->Develop------>Test------>Deliver----->ABC Bank
+
+What is software Testing?
+-------------------------
+Software Testing is a part of software development process.
+
+Software Testing is an activity to detect and identity the defects in the software.
+
+The objective of testing is to release quality product to the client.
+
+Software Quality:
+------------------
+Customer justification of how well the product is working
+
+Parameter to check software quality
+-----------------------------------
+Bug-free
+Delivered on time
+Within budget
+Meets requirements and/or expectations
+Maintainable
+
+
+Project Vs product
+------------------
+    Project:
+        If software application is developed for specific customer based on the requirement.
+        Done by service based company
+
+    Product:
+        If software applicationis developed for multiple customers based on market requirements.
+        Done by product based company
+    
+Why do we need software testing?
+--------------------------------
+deliver quality product to customer
+
+Error, Bug/defects and Failure
+----------------------
+    Error:
+        Human mistake
+        Incorrect human action
+        Done by developers
+    Bug/defects:
+        Deviation of expected and actual result
+        Something not working in application according to requirement
+        Eg: not logging in with valid username and password
+    Failure:
+        Deviation identified by end user 
+
+
+Why software has bugs?
+----------------------
+Miscommunications or no communication
+Software complexity
+Programming errors (developer errors)
+Changing requirements (frequent requirement changes)
+Lack of skilled testers (break application)

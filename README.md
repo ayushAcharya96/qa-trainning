@@ -2,49 +2,49 @@
 
 ## Module 1: Software Testing Concepts
 
-- [ ] What is software? Types of Software's?
-- [ ] What is Software Testing?
-- [ ] What is Software Quality?
-- [ ] Projects vs Products
-- [ ] Why do we need testing?
-- [ ] Error, Bug and Failure
-- [ ] Why the software has bugs?
+- [*] What is software? Types of Software's?
+- [*] What is Software Testing?
+- [*] What is Software Quality?
+- [*] Projects vs Products
+- [*] Why do we need testing?
+- [*] Error, Bug and Failure
+- [*] Why the software has bugs?
 - [ ] SDLC and STLC
-- [ ] SDLC 
-- [ ] Waterfall Model
-- [ ] Spiral Model
-- [ ] V-Model
-- [ ] Static Testing & Dynamic Testing
-- [ ] Verification & Validation
-- [ ] White Box & Black Box Testing Methods
-- [ ] Static Testing & Dynamic Testing
-- [ ] Review, Walkthrough & Inspection
-- [ ] QA & QC & QE
-- [ ] Levels of Software Testing
-- [ ] Unit Testing
-- [ ] Integration Testing
-- [ ] System Testing
-- [ ] UAT Testing
-- [ ] System Testing Types
-- [ ] GUI Testing
-- [ ] Usability Testing
-- [ ] Functional Testing
-- [ ] Non-Functional Testing
-- [ ] Regression testing
-- [ ] Re-Testing
-- [ ] Smoke & Sanity Testing
-- [ ] Exploratory Testing
-- [ ] Adhoc Testing
-- [ ] Monkey Testing
-- [ ] Positive & Negative Testing
-- [ ] End-To-End Testing
-- [ ] Localization & Globalization/Internationalization(I18N) testing
-- [ ] Test Case Design Techniques
-- [ ] Equivalence Class Partitioning
-- [ ] Boundary Value Analysis (BVA)
-- [ ] Decision Table
-- [ ] State Transition
-- [ ] Error Guessing
+- [*] SDLC 
+- [*] Waterfall Model
+- [*] Spiral Model
+- [*] V-Model
+- [*] Static Testing & Dynamic Testing
+- [*] Verification & Validation
+- [*] White Box & Black Box Testing Methods
+- [*] Static Testing & Dynamic Testing
+- [*] Review, Walkthrough & Inspection
+- [*] QA & QC & QE
+- [*] Levels of Software Testing
+- [*] Unit Testing
+- [*] Integration Testing
+- [*] System Testing
+- [*] UAT Testing
+- [*] System Testing Types
+- [*] GUI Testing
+- [*] Usability Testing
+- [*] Functional Testing
+- [*] Non-Functional Testing
+- [*] Regression testing
+- [*] Re-Testing
+- [*] Smoke & Sanity Testing
+- [*] Exploratory Testing
+- [*] Adhoc Testing
+- [*] Monkey Testing
+- [*] Positive & Negative Testing
+- [*] End-To-End Testing
+- [*] Localization & Globalization/Internationalization(I18N) testing
+- [*] Test Case Design Techniques
+- [*] Equivalence Class Partitioning
+- [*] Boundary Value Analysis (BVA)
+- [*] Decision Table
+- [*] State Transition
+- [*] Error Guessing
 - [ ] Test Planning
 - [ ] Test Design/Development
 - [ ] Test Execution
@@ -94,5 +94,4 @@
 - [ ] Creating Bugs in Jira
 - [ ] How to write test cases in Jira
 - [ ] Create Test Cycles and Execute Test Cases in Jira
-- [ ] 
 

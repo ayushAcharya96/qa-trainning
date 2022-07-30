@@ -1,0 +1,84 @@
+python programming
+-------------------
+
+- Python is high level general purpose programming language.
+- open source
+- platform indepedent
+
+Download and install python
+----------------------------
+
+ways to run python code
+------------------------
+1. throught python idle (python shell)
+2. through cmd 
+3. through nodepad/notepad++
+
+pyCharm
+--------
+- popular ide for python
+
+
+Comments
+----------
+- single line - #
+- multiple lines - """, '''
+
+keywords
+---------
+reserved words in python
+
+variables
+----------
+- reserved memory location to store value
+- variables are used to store data
+- memory allocation when the vaues are stored in variables
+- every variables must have some type
+
+data types:
+------------
+Text type:      str 
+Numeric type:   int, float
+sequence types: list, tuple
+mapping type:   dict
+set type:       set
+boolean type:   bool
+
+- dynamically typed language
+
+
+variable delete
+-----------------
+del varaible_name
+
+operators
+----------
+- symbol which performs operations
+1. Arithmetic : arithmetic operations
+2. Relational : compare two values
+3. Logical : and or not 
+
+Concatenation
+--------------
+
+
+Formatting output
+------------------
+
+TakingInputFromUser
+---------------------
+
+
+Control Statements
+------------------
+1. conditional Statements - if elif, else
+2. looping Statements - while, for
+3. jumping Statements - break, continue
+
+
+range() function in python
+----------------------------
+range(10) 0...........10
+range(1,10) 1.........9
+range(1,10,2) 1 - starting, 10 - ending , 2 is increment
+
